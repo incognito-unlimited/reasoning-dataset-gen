@@ -1,0 +1,360 @@
+{
+    "general": {
+        "solving": [
+            {
+                "id": "gen_001",
+                "title": "Eliminate Before Selecting",
+                "principle": "Never jump to an answer. Test ALL four options — eliminate the ones that violate constraints, then confirm the survivor.",
+                "when": "Every MCQ, always."
+            },
+            {
+                "id": "gen_002",
+                "title": "Assume and Contradict",
+                "principle": "If direct deduction stalls, assume each option is correct one by one and check if it leads to a contradiction with given constraints.",
+                "when": "When forward reasoning doesn't yield a clear answer."
+            },
+            {
+                "id": "gen_003",
+                "title": "Verify Final Answer",
+                "principle": "After selecting an answer, re-check it against EVERY given constraint or statement. If any constraint is violated, the answer is wrong.",
+                "when": "Before finalizing any answer."
+            },
+            {
+                "id": "gen_004",
+                "title": "Read Precisely",
+                "principle": "Pay extreme attention to words like 'only', 'all', 'some', 'not', 'except', 'immediately', 'possible', 'definitely'. One word changes the entire logic.",
+                "when": "While parsing any question."
+            }
+        ],
+        "question_generation": [
+            {
+                "id": "gen_q001",
+                "title": "Ensure Unique Solution",
+                "principle": "Every question MUST have exactly one correct answer derivable from the given constraints. Solve it yourself before outputting.",
+                "when": "Generating any question."
+            },
+            {
+                "id": "gen_q002",
+                "title": "Plausible Distractors",
+                "principle": "Wrong options should be answers you'd get if you made a common reasoning mistake (e.g., confusing left/right, misreading 'some' as 'all'). Never use random or obviously wrong options.",
+                "when": "Designing choices for any question."
+            },
+            {
+                "id": "gen_q003",
+                "title": "Maximize Difficulty via Steps",
+                "principle": "Hard questions require 3+ reasoning steps. Add intermediate conditions, swaps, or nested references to increase depth.",
+                "when": "Generating any question."
+            }
+        ],
+        "errors": [
+            {
+                "id": "err_gen_001",
+                "title": "Ambiguous Question Trap",
+                "principle": "If a question can be interpreted two ways, it will be filtered out or marked invalid. Ensure unambiguous wording.",
+                "when": "Reviewing generated questions."
+            },
+            {
+                "id": "err_gen_002",
+                "title": "Premature Answer Selection",
+                "principle": "Selecting the first option that 'looks right' without checking others leads to wrong answers. Always check all four.",
+                "when": "When tempted to answer quickly."
+            }
+        ]
+    },
+    "syllogisms": {
+        "solving": [
+            {
+                "id": "syl_001",
+                "title": "Venn Diagram Method",
+                "principle": "Map every statement to circles: 'All A are B' = A inside B. 'Some A are B' = A and B overlap. 'No A is B' = A and B don't touch. Then visually check if each conclusion MUST be true in EVERY valid diagram.",
+                "when": "Every syllogism problem."
+            },
+            {
+                "id": "syl_002",
+                "title": "Some ≠ Only Some",
+                "principle": "'Some A are B' means AT LEAST one A is B. It does NOT exclude the possibility that ALL A are B. Never assume 'some' means 'not all'.",
+                "when": "When a statement uses 'some'."
+            },
+            {
+                "id": "syl_003",
+                "title": "Definite vs Possible",
+                "principle": "A conclusion 'follows' only if it is TRUE in EVERY valid Venn diagram arrangement. If you can draw even ONE valid diagram where it fails, the conclusion does NOT follow.",
+                "when": "Evaluating whether a conclusion follows."
+            },
+            {
+                "id": "syl_004",
+                "title": "Reverse of Universal is Particular",
+                "principle": "'All A are B' guarantees 'Some B are A'. But 'Some A are B' does NOT guarantee 'Some A are not B'. The converse of 'All' is 'Some' (reverse), not 'All' (reverse).",
+                "when": "When checking derived conclusions."
+            },
+            {
+                "id": "syl_005",
+                "title": "Chain Breaking at Some",
+                "principle": "If the chain is All→All→All, conclusions carry through. But 'Some' BREAKS the chain: 'Some A are B' + 'All B are C' gives 'Some A are C', but 'Some A are B' + 'Some B are C' gives NOTHING definite about A and C.",
+                "when": "When tracing multi-statement chains."
+            },
+            {
+                "id": "syl_006",
+                "title": "No + All = No",
+                "principle": "'No A is B' + 'All C are A' = 'No C is B'. The negative relationship transfers through universal statements.",
+                "when": "When combining negative and universal statements."
+            }
+        ],
+        "question_generation": [
+            {
+                "id": "syl_q001",
+                "title": "Multi-Statement Chains",
+                "principle": "Use 3 statements minimum. Mix 'All', 'Some', and 'No' to create chains where the conclusion is non-obvious. The best questions have chains that ALMOST connect but break at a 'Some'.",
+                "when": "Generating syllogism questions."
+            },
+            {
+                "id": "syl_q002",
+                "title": "Trick with Possibility",
+                "principle": "Include conclusions that test 'possibility' vs 'certainty'. E.g., 'Some A being B is a possibility' — this is true unless it's provably impossible. Most solvers confuse this.",
+                "when": "Designing hard syllogism distractors."
+            }
+        ],
+        "errors": [
+            {
+                "id": "err_syl_001",
+                "title": "Assuming Transitivity with Some",
+                "principle": "'Some A are B' + 'Some B are C' does NOT mean 'Some A are C'. The overlap regions may not intersect.",
+                "when": "When two 'some' statements share a middle term."
+            },
+            {
+                "id": "err_syl_002",
+                "title": "Confusing Complementary Sets",
+                "principle": "'No A is B' does NOT mean 'All non-A are B'. These are completely different logical statements.",
+                "when": "When dealing with negative universal statements."
+            },
+            {
+                "id": "err_syl_003",
+                "title": "Ignoring 'Possibility' Questions",
+                "principle": "When asked if something 'is a possibility', it's TRUE unless it's provably IMPOSSIBLE. This is the opposite of 'does it definitely follow'. Many solvers get this backwards.",
+                "when": "When conclusion uses words like 'possible' or 'may be'."
+            }
+        ]
+    },
+    "seating_arrangements": {
+        "solving": [
+            {
+                "id": "seat_001",
+                "title": "Anchor First",
+                "principle": "Identify the most constrained person (mentioned in most clues) or a person with a fixed/end position. Place them first. All other positions derive from this anchor.",
+                "when": "Starting any seating arrangement."
+            },
+            {
+                "id": "seat_002",
+                "title": "Constraint Stacking",
+                "principle": "Process constraints from most restrictive to least. 'X is at the end' > 'X is next to Y' > 'X is to the left of Y'. Each constraint narrows possibilities.",
+                "when": "After anchoring the first person."
+            },
+            {
+                "id": "seat_003",
+                "title": "Circular Left/Right Convention",
+                "principle": "In circular arrangements, 'left' and 'right' depend on the person's facing direction. If facing center: clockwise = right. If facing outward: clockwise = left. Always clarify facing direction first.",
+                "when": "Any circular seating problem."
+            },
+            {
+                "id": "seat_004",
+                "title": "Parallel Row Mapping",
+                "principle": "When two rows face each other (e.g., north-facing vs south-facing), the person 'opposite' someone is directly across. 'Left/right' is from THAT person's perspective, which may be reversed from the viewer's perspective.",
+                "when": "Two-row facing problems."
+            },
+            {
+                "id": "seat_005",
+                "title": "Apply Swaps Sequentially",
+                "principle": "When people exchange positions, apply EACH swap one at a time to the current arrangement. Do not try to compute the final state in your head — write out the state after each swap.",
+                "when": "Questions involving position exchanges."
+            },
+            {
+                "id": "seat_006",
+                "title": "Count Positions Carefully",
+                "principle": "'Second to the right of X' means skip one person to X's right and take the next. 'Third to the left' means skip two and take the third. Always count from X's perspective, not the viewer's.",
+                "when": "Questions asking about relative positions."
+            }
+        ],
+        "question_generation": [
+            {
+                "id": "seat_q001",
+                "title": "Add Position Swaps",
+                "principle": "After establishing the base arrangement, add 2-3 position exchanges. Then ask about the FINAL arrangement. This adds a full extra layer of complexity.",
+                "when": "Generating hard seating questions."
+            },
+            {
+                "id": "seat_q002",
+                "title": "Nested Relative References",
+                "principle": "Ask about 'the person to the right of the person opposite to the person to the left of X'. Each nesting level adds difficulty. Use 2-3 levels.",
+                "when": "Designing the final question from an arrangement."
+            },
+            {
+                "id": "seat_q003",
+                "title": "Two-Row Complexity",
+                "principle": "Use two parallel rows facing each other with 5+ people per row. Facing direction makes left/right non-intuitive and dramatically increases error rate.",
+                "when": "Generating maximum difficulty seating problems."
+            }
+        ],
+        "errors": [
+            {
+                "id": "err_seat_001",
+                "title": "Left/Right Reversal",
+                "principle": "In facing arrangements, viewer's left ≠ person's left. South-facing person's right is viewer's left. This is the #1 source of errors.",
+                "when": "Any problem with facing directions."
+            },
+            {
+                "id": "err_seat_002",
+                "title": "Forgetting to Apply All Swaps",
+                "principle": "When multiple swaps occur, each swap modifies the arrangement. Applying swap 2 to the ORIGINAL instead of the post-swap-1 arrangement gives wrong results.",
+                "when": "Multi-swap problems."
+            },
+            {
+                "id": "err_seat_003",
+                "title": "Off-by-One in Position Counting",
+                "principle": "'Immediately right' = position + 1. 'Second to the right' = position + 2. Don't confuse them. 'Next to' means immediately adjacent, not two away.",
+                "when": "Counting relative positions."
+            }
+        ]
+    },
+    "blood_relations": {
+        "solving": [
+            {
+                "id": "blood_001",
+                "title": "Build Tree Top-Down",
+                "principle": "Start from the oldest generation mentioned. Draw each relationship as a tree: horizontal line = married, vertical line = parent-child. Mark gender (M/F) at every node.",
+                "when": "Every blood relation problem."
+            },
+            {
+                "id": "blood_002",
+                "title": "Decode Compound References",
+                "principle": "Break compound references step by step: 'my mother's brother's wife' = my mother → her brother (my uncle) → his wife (my aunt by marriage). Always resolve innermost reference first.",
+                "when": "When the question has chained relationship references."
+            },
+            {
+                "id": "blood_003",
+                "title": "Self-Reference Check",
+                "principle": "'My mother's son' could be ME or my brother. 'My father's daughter' could be ME or my sister. Always consider the self-reference case before assuming it's someone else.",
+                "when": "When a reference could point to the speaker themselves."
+            },
+            {
+                "id": "blood_004",
+                "title": "Gender from Context",
+                "principle": "Words like 'wife', 'husband', 'brother', 'sister', 'son', 'daughter', 'he', 'she' reveal gender. Mark gender at every step — it determines the final relationship name.",
+                "when": "When determining the relationship label."
+            },
+            {
+                "id": "blood_005",
+                "title": "Only Child Constraint",
+                "principle": "When 'only son' or 'only daughter' is mentioned, it eliminates the possibility of siblings of that gender. 'Only child' eliminates all siblings. This forces the reference to point to a specific person.",
+                "when": "When the word 'only' appears in a relationship."
+            }
+        ],
+        "question_generation": [
+            {
+                "id": "blood_q001",
+                "title": "Deep Chain References",
+                "principle": "Create 3+ level chains: 'X's father's mother's husband's son'. Each level adds cognitive load. Mix in marriage relationships to increase complexity.",
+                "when": "Generating hard blood relation questions."
+            },
+            {
+                "id": "blood_q002",
+                "title": "Self-Reference Ambiguity",
+                "principle": "Use phrases like 'my mother's son' where the answer depends on whether it refers to the speaker or a sibling. Design choices to trap solvers who forget the self-reference case.",
+                "when": "Designing tricky blood relation questions."
+            }
+        ],
+        "errors": [
+            {
+                "id": "err_blood_001",
+                "title": "Forgetting Self-Reference",
+                "principle": "'My father's son' could be ME, not necessarily my brother. Solvers who forget this will pick 'brother' when the answer is actually about themselves.",
+                "when": "Compound references that loop back to the speaker."
+            },
+            {
+                "id": "err_blood_002",
+                "title": "Assuming Gender",
+                "principle": "Don't assume gender from names unless explicitly stated. 'A says B is my parent's child' — B's gender is unknown unless specified with he/she.",
+                "when": "When gender is not explicitly stated."
+            },
+            {
+                "id": "err_blood_003",
+                "title": "Confusing In-Laws",
+                "principle": "'Husband's mother' = mother-in-law, NOT stepmother. 'Wife's brother' = brother-in-law. Marriage creates a distinct relationship category from blood relations.",
+                "when": "When marriage relationships are involved."
+            }
+        ]
+    },
+    "alphanumeric_series": {
+        "solving": [
+            {
+                "id": "ser_001",
+                "title": "Split Into Positions",
+                "principle": "In a mixed series like 'JAK, KBL, LCM', analyze EACH position independently. Position 1: J→K→L (+1). Position 2: A→B→C (+1). Position 3: K→L→M (+1). Patterns per position may differ.",
+                "when": "Every alphanumeric series problem."
+            },
+            {
+                "id": "ser_002",
+                "title": "Identify Interleaved Patterns",
+                "principle": "Some series have 2-3 independent patterns interleaved. E.g., 'ZA_5, Y_4B, XC_6' has: letters decreasing (Z,Y,X), letters increasing (A,B,C), and numbers with their own pattern (5,4,6,3,7). Separate them.",
+                "when": "When the series has mixed letters and numbers."
+            },
+            {
+                "id": "ser_003",
+                "title": "Check Common Number Patterns",
+                "principle": "Look for: arithmetic (+2, -3), geometric (×2), alternating operations (+1,-2,+1,-2), prime numbers, squares, triangular numbers, Fibonacci. Try differences first, then ratios.",
+                "when": "When the series contains numbers."
+            },
+            {
+                "id": "ser_004",
+                "title": "Letter-to-Number Mapping",
+                "principle": "Convert letters to numbers (A=1, B=2...Z=26) to spot arithmetic patterns. 'B,D,F,H' = 2,4,6,8 (+2). This reveals patterns invisible in letter form.",
+                "when": "When letter patterns aren't obvious visually."
+            },
+            {
+                "id": "ser_005",
+                "title": "Carry-Over Pattern",
+                "principle": "Check if the last element of one term becomes the first element of the next. E.g., 'JAK, KBL, LCM' — K from position 3 of 'JAK' becomes position 1 of 'KBL'. This is a common trick.",
+                "when": "When terms share boundary characters."
+            },
+            {
+                "id": "ser_006",
+                "title": "Fill-in-the-Blank Verification",
+                "principle": "For blank-filling series, plug in each option and check if the resulting sequence has a consistent repeating pattern. The correct option will produce perfect periodicity.",
+                "when": "Series with blanks to fill."
+            }
+        ],
+        "question_generation": [
+            {
+                "id": "ser_q001",
+                "title": "Multiple Interleaved Patterns",
+                "principle": "Create series with 3+ independent interleaved patterns (e.g., reverse alphabet + forward alphabet + alternating number sequence). The more independent patterns, the harder.",
+                "when": "Generating hard series questions."
+            },
+            {
+                "id": "ser_q002",
+                "title": "Non-Obvious Operation",
+                "principle": "Use alternating operations (e.g., +2, -1, +2, -1) or patterns based on position index rather than fixed arithmetic. Avoid simple +1 or +2 patterns.",
+                "when": "Designing distractors for series questions."
+            }
+        ],
+        "errors": [
+            {
+                "id": "err_ser_001",
+                "title": "Analyzing as Single Pattern",
+                "principle": "Treating a multi-position series as one sequence instead of analyzing each position independently. 'JAK, KBL' is NOT one stream 'J-A-K-K-B-L' — it's three parallel streams.",
+                "when": "When the series has multi-character terms."
+            },
+            {
+                "id": "err_ser_002",
+                "title": "Missing the Carry-Over",
+                "principle": "Failing to notice that the last character of one term feeds into the first character of the next. This changes position 1's pattern from independent to dependent.",
+                "when": "When adjacent terms share characters at boundaries."
+            },
+            {
+                "id": "err_ser_003",
+                "title": "Wrong Alphabet Arithmetic",
+                "principle": "After Z comes A (wrap-around), not a gap. 'X, Y, Z, ?' = A, not AA. Always use mod 26 for letter arithmetic.",
+                "when": "When the series approaches Z."
+            }
+        ]
+    }
+}

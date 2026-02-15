@@ -1,2002 +1,2002 @@
 [
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Translate premises: - All A are G - Some G are E - No E are D - All D are A Derive consequences: - We know 'Some G are E' and 'No E are D', so those G that are E cannot be D. Hence 'Some G are not D' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: The letters increase by 2 each term (e.g. C, E, G -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is S4. This matches choice A: S4."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Translate premises: - All B are D - Some D are C - No C are E - All E are B Derive consequences: - We know 'Some D are C' and 'No C are E', so those D that are C cannot be E. Hence 'Some D are not E' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of F from the left is 1 (choice C)."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All G are D - Some D are F - No F are A - All A are G Derive consequences: - We know 'Some D are F' and 'No F are A', so those D that are F cannot be A. Hence 'Some D are not A' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. D, F, H -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is T4. This matches choice C: T4."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All A are E - Some E are C - No C are F - All F are A Derive consequences: - We know 'Some E are C' and 'No C are F', so those E that are C cannot be F. Hence 'Some E are not F' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of H from the left is 7 (choice D)."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of H from the left is 4 (choice C)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. F, H, J -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is V4. This matches choice D: V4."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All G are B - Some B are D - No D are E - All E are G Derive consequences: - We know 'Some B are D' and 'No D are E', so those B that are D cannot be E. Hence 'Some B are not E' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. I, K, M -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Y4. This matches choice C: Y4."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of H from the left is 2 (choice B)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of E from the left is 4 (choice D)."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of G from the left is 8 (choice D)."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Translate premises: - All D are G - Some G are E - No E are A - All A are D Derive consequences: - We know 'Some G are E' and 'No E are A', so those G that are E cannot be A. Hence 'Some G are not A' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All C are G - Some G are B - No B are F - All F are C Derive consequences: - We know 'Some G are B' and 'No B are F', so those G that are B cannot be F. Hence 'Some G are not F' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of H from the left is 4 (choice C)."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: The letters increase by 2 each term (e.g. F, H, J -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is V4. This matches choice B: V4."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. B, D, F -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is R4. This matches choice D: R4."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All C are E - Some E are G - No G are A - All A are C Derive consequences: - We know 'Some E are G' and 'No G are A', so those E that are G cannot be A. Hence 'Some E are not A' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All D are F - Some F are A - No A are E - All E are D Derive consequences: - We know 'Some F are A' and 'No A are E', so those F that are A cannot be E. Hence 'Some F are not E' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. D, F, H -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is T4. This matches choice D: T4."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: The letters increase by 2 each term (e.g. E, G, I -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is U4. This matches choice A: U4."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. I, K, M -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Y4. This matches choice C: Y4."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All D are G - Some G are B - No B are C - All C are D Derive consequences: - We know 'Some G are B' and 'No B are C', so those G that are B cannot be C. Hence 'Some G are not C' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Translate premises: - All B are D - Some D are A - No A are C - All C are B Derive consequences: - We know 'Some D are A' and 'No A are C', so those D that are A cannot be C. Hence 'Some D are not C' holds, so the conclusion follows."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All G are D - Some D are B - No B are A - All A are G Derive consequences: - We know 'Some D are B' and 'No B are A', so those D that are B cannot be A. Hence 'Some D are not A' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All F are A - Some A are B - No B are E - All E are F Derive consequences: - We know 'Some A are B' and 'No B are E', so those A that are B cannot be E. Hence 'Some A are not E' holds, so the conclusion follows."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of E from the left is 3 (choice B)."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Translate premises: - All A are D - Some D are F - No F are C - All C are A Derive consequences: - We know 'Some D are F' and 'No F are C', so those D that are F cannot be C. Hence 'Some D are not C' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. H, J, L -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is X4. This matches choice D: X4."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of B from the left is 8 (choice A)."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of D from the left is 6 (choice C)."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All A are G - Some G are C - No C are F - All F are A Derive consequences: - We know 'Some G are C' and 'No C are F', so those G that are C cannot be F. Hence 'Some G are not F' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All B are C - Some C are A - No A are D - All D are B Derive consequences: - We know 'Some C are A' and 'No A are D', so those C that are A cannot be D. Hence 'Some C are not D' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: The letters increase by 2 each term (e.g. A, C, E -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Q4. This matches choice A: Q4."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: The letters increase by 2 each term (e.g. J, L, N -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Z4. This matches choice B: Z4."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All B are A - Some A are E - No E are D - All D are B Derive consequences: - We know 'Some A are E' and 'No E are D', so those A that are E cannot be D. Hence 'Some A are not D' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All B are G - Some G are A - No A are E - All E are B Derive consequences: - We know 'Some G are A' and 'No A are E', so those G that are A cannot be E. Hence 'Some G are not E' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. B, D, F -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is R4. This matches choice C: R4."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All C are E - Some E are B - No B are A - All A are C Derive consequences: - We know 'Some E are B' and 'No B are A', so those E that are B cannot be A. Hence 'Some E are not A' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. G, I, K -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is W4. This matches choice C: W4."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Translate premises: - All D are C - Some C are F - No F are G - All G are D Derive consequences: - We know 'Some C are F' and 'No F are G', so those C that are F cannot be G. Hence 'Some C are not G' holds, so the conclusion follows."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: The letters increase by 2 each term (e.g. H, J, L -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is X4. This matches choice B: X4."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of H from the left is 1 (choice C)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of F from the left is 5 (choice D)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of E from the left is 2 (choice B)."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of H from the left is 7 (choice A)."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: The letters increase by 2 each term (e.g. C, E, G -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is S4. This matches choice B: S4."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. A, C, E -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Q4. This matches choice D: Q4."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All G are E - Some E are C - No C are A - All A are G Derive consequences: - We know 'Some E are C' and 'No C are A', so those E that are C cannot be A. Hence 'Some E are not A' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. J, L, N -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Z4. This matches choice D: Z4."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All B are C - Some C are E - No E are F - All F are B Derive consequences: - We know 'Some C are E' and 'No E are F', so those C that are E cannot be F. Hence 'Some C are not F' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. H, J, L -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is X4. This matches choice D: X4."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All G are E - Some E are F - No F are D - All D are G Derive consequences: - We know 'Some E are F' and 'No F are D', so those E that are F cannot be D. Hence 'Some E are not D' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. K, M, O -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is [4. The computed next term [4 differs from the provided choice A4; however the best-fit pattern is explained above."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: The letters increase by 2 each term (e.g. H, J, L -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is X4. This matches choice A: X4."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All F are A - Some A are C - No C are B - All B are F Derive consequences: - We know 'Some A are C' and 'No C are B', so those A that are C cannot be B. Hence 'Some A are not B' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. G, I, K -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is W4. This matches choice D: W4."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of C from the left is 2 (choice C)."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All F are G - Some G are E - No E are C - All C are F Derive consequences: - We know 'Some G are E' and 'No E are C', so those G that are E cannot be C. Hence 'Some G are not C' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Translate premises: - All F are B - Some B are D - No D are G - All G are F Derive consequences: - We know 'Some B are D' and 'No D are G', so those B that are D cannot be G. Hence 'Some B are not G' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. H, J, L -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is X4. This matches choice D: X4."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: The letters increase by 2 each term (e.g. C, E, G -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is S4. This matches choice B: S4."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of B from the left is 3 (choice C)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of G from the left is 4 (choice D)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All F are C - Some C are A - No A are G - All G are F Derive consequences: - We know 'Some C are A' and 'No A are G', so those C that are A cannot be G. Hence 'Some C are not G' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of F from the left is 6 (choice C)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of F from the left is 5 (choice D)."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All F are G - Some G are D - No D are C - All C are F Derive consequences: - We know 'Some G are D' and 'No D are C', so those G that are D cannot be C. Hence 'Some G are not C' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. A, C, E -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Q4. This matches choice D: Q4."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: The letters increase by 2 each term (e.g. B, D, F -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is R4. This matches choice B: R4."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. I, K, M -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Y4. This matches choice D: Y4."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All A are E - Some E are F - No F are G - All G are A Derive consequences: - We know 'Some E are F' and 'No F are G', so those E that are F cannot be G. Hence 'Some E are not G' holds, so the conclusion follows."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All B are E - Some E are G - No G are D - All D are B Derive consequences: - We know 'Some E are G' and 'No G are D', so those E that are G cannot be D. Hence 'Some E are not D' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of B from the left is 2 (choice C)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of D from the left is 3 (choice D)."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All A are B - Some B are D - No D are F - All F are A Derive consequences: - We know 'Some B are D' and 'No D are F', so those B that are D cannot be F. Hence 'Some B are not F' holds, so the conclusion follows."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of E from the left is 2 (choice B)."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: The letters increase by 2 each term (e.g. A, C, E -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Q4. This matches choice B: Q4."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All B are F - Some F are C - No C are E - All E are B Derive consequences: - We know 'Some F are C' and 'No C are E', so those F that are C cannot be E. Hence 'Some F are not E' holds, so the conclusion follows."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: The letters increase by 2 each term (e.g. C, E, G -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is S4. This matches choice B: S4."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: The letters increase by 2 each term (e.g. J, L, N -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Z4. This matches choice A: Z4."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of H from the left is 6 (choice C)."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All G are B - Some B are C - No C are A - All A are G Derive consequences: - We know 'Some B are C' and 'No C are A', so those B that are C cannot be A. Hence 'Some B are not A' holds, so the conclusion follows."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of A from the left is 4 (choice B)."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Translate premises: - All B are C - Some C are D - No D are F - All F are B Derive consequences: - We know 'Some C are D' and 'No D are F', so those C that are D cannot be F. Hence 'Some C are not F' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of A from the left is 8 (choice C)."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: The letters increase by 2 each term (e.g. F, H, J -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is V4. This matches choice A: V4."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All E are C - Some C are F - No F are D - All D are E Derive consequences: - We know 'Some C are F' and 'No F are D', so those C that are F cannot be D. Hence 'Some C are not D' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All B are C - Some C are F - No F are D - All D are B Derive consequences: - We know 'Some C are F' and 'No F are D', so those C that are F cannot be D. Hence 'Some C are not D' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All E are D - Some D are G - No G are A - All A are E Derive consequences: - We know 'Some D are G' and 'No G are A', so those D that are G cannot be A. Hence 'Some D are not A' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. D, F, H -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is T4. This matches choice D: T4."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All D are F - Some F are E - No E are A - All A are D Derive consequences: - We know 'Some F are E' and 'No E are A', so those F that are E cannot be A. Hence 'Some F are not A' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. H, J, L -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is X4. This matches choice C: X4."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of E from the left is 2 (choice C)."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All C are F - Some F are E - No E are G - All G are C Derive consequences: - We know 'Some F are E' and 'No E are G', so those F that are E cannot be G. Hence 'Some F are not G' holds, so the conclusion follows."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All F are B - Some B are E - No E are D - All D are F Derive consequences: - We know 'Some B are E' and 'No E are D', so those B that are E cannot be D. Hence 'Some B are not D' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All E are B - Some B are A - No A are F - All F are E Derive consequences: - We know 'Some B are A' and 'No A are F', so those B that are A cannot be F. Hence 'Some B are not F' holds, so the conclusion follows."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of E from the left is 4 (choice D)."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All F are C - Some C are E - No E are G - All G are F Derive consequences: - We know 'Some C are E' and 'No E are G', so those C that are E cannot be G. Hence 'Some C are not G' holds, so the conclusion follows."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All G are A - Some A are C - No C are F - All F are G Derive consequences: - We know 'Some A are C' and 'No C are F', so those A that are C cannot be F. Hence 'Some A are not F' holds, so the conclusion follows."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All C are D - Some D are B - No B are A - All A are C Derive consequences: - We know 'Some D are B' and 'No B are A', so those D that are B cannot be A. Hence 'Some D are not A' holds, so the conclusion follows."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: The letters increase by 2 each term (e.g. E, G, I -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is U4. This matches choice B: U4."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All E are F - Some F are A - No A are D - All D are E Derive consequences: - We know 'Some F are A' and 'No A are D', so those F that are A cannot be D. Hence 'Some F are not D' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of H from the left is 6 (choice A)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. I, K, M -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Y4. This matches choice D: Y4."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of E from the left is 2 (choice B)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All F are D - Some D are C - No C are E - All E are F Derive consequences: - We know 'Some D are C' and 'No C are E', so those D that are C cannot be E. Hence 'Some D are not E' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. B, D, F -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is R4. This matches choice D: R4."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All B are A - Some A are E - No E are C - All C are B Derive consequences: - We know 'Some A are E' and 'No E are C', so those A that are E cannot be C. Hence 'Some A are not C' holds, so the conclusion follows."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: The letters increase by 2 each term (e.g. H, J, L -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is X4. This matches choice B: X4."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. I, K, M -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Y4. This matches choice D: Y4."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of C from the left is 4 (choice C)."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. J, L, N -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Z4. This matches choice C: Z4."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All B are A - Some A are C - No C are E - All E are B Derive consequences: - We know 'Some A are C' and 'No C are E', so those A that are C cannot be E. Hence 'Some A are not E' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of B from the left is 4 (choice C)."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All F are G - Some G are C - No C are D - All D are F Derive consequences: - We know 'Some G are C' and 'No C are D', so those G that are C cannot be D. Hence 'Some G are not D' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. I, K, M -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Y4. This matches choice C: Y4."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. H, J, L -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is X4. This matches choice C: X4."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of G from the left is 2 (choice C)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All C are D - Some D are B - No B are F - All F are C Derive consequences: - We know 'Some D are B' and 'No B are F', so those D that are B cannot be F. Hence 'Some D are not F' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All A are F - Some F are G - No G are D - All D are A Derive consequences: - We know 'Some F are G' and 'No G are D', so those F that are G cannot be D. Hence 'Some F are not D' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of A from the left is 8 (choice D)."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of A from the left is 6 (choice A)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of C from the left is 3 (choice D)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of C from the left is 8 (choice D)."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of F from the left is 7 (choice C)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of B from the left is 3 (choice D)."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. G, I, K -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is W4. This matches choice C: W4."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. G, I, K -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is W4. This matches choice D: W4."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: The letters increase by 2 each term (e.g. D, F, H -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is T4. This matches choice A: T4."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All A are G - Some G are F - No F are E - All E are A Derive consequences: - We know 'Some G are F' and 'No F are E', so those G that are F cannot be E. Hence 'Some G are not E' holds, so the conclusion follows."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All E are A - Some A are G - No G are F - All F are E Derive consequences: - We know 'Some A are G' and 'No G are F', so those A that are G cannot be F. Hence 'Some A are not F' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: The letters increase by 2 each term (e.g. I, K, M -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Y4. This matches choice A: Y4."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Translate premises: - All A are B - Some B are C - No C are E - All E are A Derive consequences: - We know 'Some B are C' and 'No C are E', so those B that are C cannot be E. Hence 'Some B are not E' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of H from the left is 3 (choice D)."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: The letters increase by 2 each term (e.g. F, H, J -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is V4. This matches choice B: V4."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All B are D - Some D are F - No F are E - All E are B Derive consequences: - We know 'Some D are F' and 'No F are E', so those D that are F cannot be E. Hence 'Some D are not E' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: The letters increase by 2 each term (e.g. H, J, L -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is X4. This matches choice A: X4."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All F are G - Some G are C - No C are A - All A are F Derive consequences: - We know 'Some G are C' and 'No C are A', so those G that are C cannot be A. Hence 'Some G are not A' holds, so the conclusion follows."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All E are F - Some F are C - No C are D - All D are E Derive consequences: - We know 'Some F are C' and 'No C are D', so those F that are C cannot be D. Hence 'Some F are not D' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All C are D - Some D are G - No G are B - All B are C Derive consequences: - We know 'Some D are G' and 'No G are B', so those D that are G cannot be B. Hence 'Some D are not B' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: The letters increase by 2 each term (e.g. G, I, K -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is W4. This matches choice A: W4."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All G are F - Some F are C - No C are B - All B are G Derive consequences: - We know 'Some F are C' and 'No C are B', so those F that are C cannot be B. Hence 'Some F are not B' holds, so the conclusion follows."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: The letters increase by 2 each term (e.g. I, K, M -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Y4. This matches choice B: Y4."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: The letters increase by 2 each term (e.g. J, L, N -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Z4. This matches choice A: Z4."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. D, F, H -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is T4. This matches choice D: T4."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of C from the left is 8 (choice A)."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of G from the left is 4 (choice A)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All F are C - Some C are E - No E are A - All A are F Derive consequences: - We know 'Some C are E' and 'No E are A', so those C that are E cannot be A. Hence 'Some C are not A' holds, so the conclusion follows."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: The letters increase by 2 each term (e.g. B, D, F -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is R4. This matches choice B: R4."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All A are E - Some E are D - No D are F - All F are A Derive consequences: - We know 'Some E are D' and 'No D are F', so those E that are D cannot be F. Hence 'Some E are not F' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of G from the left is 2 (choice D)."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of C from the left is 5 (choice B)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of H from the left is 6 (choice D)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All A are C - Some C are E - No E are F - All F are A Derive consequences: - We know 'Some C are E' and 'No E are F', so those C that are E cannot be F. Hence 'Some C are not F' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. F, H, J -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is V4. This matches choice C: V4."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All G are B - Some B are C - No C are A - All A are G Derive consequences: - We know 'Some B are C' and 'No C are A', so those B that are C cannot be A. Hence 'Some B are not A' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. G, I, K -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is W4. This matches choice C: W4."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. I, K, M -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Y4. This matches choice D: Y4."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All F are A - Some A are G - No G are D - All D are F Derive consequences: - We know 'Some A are G' and 'No G are D', so those A that are G cannot be D. Hence 'Some A are not D' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: The letters increase by 2 each term (e.g. J, L, N -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Z4. This matches choice B: Z4."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of G from the left is 1 (choice D)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of A from the left is 8 (choice A)."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of A from the left is 4 (choice C)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. J, L, N -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Z4. This matches choice D: Z4."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of G from the left is 7 (choice C)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of D from the left is 1 (choice D)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of F from the left is 8 (choice C)."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of H from the left is 2 (choice C)."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of B from the left is 2 (choice C)."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of E from the left is 4 (choice C)."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of B from the left is 1 (choice C)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of E from the left is 5 (choice D)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. F, H, J -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is V4. This matches choice D: V4."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of G from the left is 4 (choice C)."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All E are A - Some A are G - No G are D - All D are E Derive consequences: - We know 'Some A are G' and 'No G are D', so those A that are G cannot be D. Hence 'Some A are not D' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of E from the left is 7 (choice A)."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All D are A - Some A are B - No B are E - All E are D Derive consequences: - We know 'Some A are B' and 'No B are E', so those A that are B cannot be E. Hence 'Some A are not E' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All C are F - Some F are D - No D are B - All B are C Derive consequences: - We know 'Some F are D' and 'No D are B', so those F that are D cannot be B. Hence 'Some F are not B' holds, so the conclusion follows."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of A from the left is 8 (choice B)."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. A, C, E -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Q4. This matches choice C: Q4."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All F are A - Some A are E - No E are D - All D are F Derive consequences: - We know 'Some A are E' and 'No E are D', so those A that are E cannot be D. Hence 'Some A are not D' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All G are E - Some E are C - No C are A - All A are G Derive consequences: - We know 'Some E are C' and 'No C are A', so those E that are C cannot be A. Hence 'Some E are not A' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of G from the left is 3 (choice A)."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: The letters increase by 2 each term (e.g. H, J, L -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is X4. This matches choice A: X4."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: The letters increase by 2 each term (e.g. C, E, G -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is S4. This matches choice A: S4."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of D from the left is 1 (choice C)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All F are A - Some A are B - No B are D - All D are F Derive consequences: - We know 'Some A are B' and 'No B are D', so those A that are B cannot be D. Hence 'Some A are not D' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: The letters increase by 2 each term (e.g. F, H, J -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is V4. This matches choice A: V4."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of B from the left is 5 (choice B)."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of H from the left is 2 (choice B)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. K, M, O -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is [4. The computed next term [4 differs from the provided choice A4; however the best-fit pattern is explained above."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Translate premises: - All F are G - Some G are C - No C are E - All E are F Derive consequences: - We know 'Some G are C' and 'No C are E', so those G that are C cannot be E. Hence 'Some G are not E' holds, so the conclusion follows."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: The letters increase by 2 each term (e.g. K, M, O -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is [4. The computed next term [4 differs from the provided choice A4; however the best-fit pattern is explained above."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of A from the left is 6 (choice D)."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: The letters increase by 2 each term (e.g. D, F, H -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is T4. This matches choice B: T4."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of C from the left is 8 (choice D)."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All F are C - Some C are E - No E are A - All A are F Derive consequences: - We know 'Some C are E' and 'No E are A', so those C that are E cannot be A. Hence 'Some C are not A' holds, so the conclusion follows."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. J, L, N -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Z4. This matches choice C: Z4."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. H, J, L -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is X4. This matches choice D: X4."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of G from the left is 6 (choice B)."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: The letters increase by 2 each term (e.g. J, L, N -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Z4. This matches choice B: Z4."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. C, E, G -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is S4. This matches choice C: S4."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All A are D - Some D are B - No B are C - All C are A Derive consequences: - We know 'Some D are B' and 'No B are C', so those D that are B cannot be C. Hence 'Some D are not C' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Translate premises: - All G are D - Some D are B - No B are E - All E are G Derive consequences: - We know 'Some D are B' and 'No B are E', so those D that are B cannot be E. Hence 'Some D are not E' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. F, H, J -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is V4. This matches choice C: V4."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. H, J, L -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is X4. This matches choice C: X4."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Translate premises: - All F are B - Some B are A - No A are C - All C are F Derive consequences: - We know 'Some B are A' and 'No A are C', so those B that are A cannot be C. Hence 'Some B are not C' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All C are E - Some E are A - No A are D - All D are C Derive consequences: - We know 'Some E are A' and 'No A are D', so those E that are A cannot be D. Hence 'Some E are not D' holds, so the conclusion follows."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All D are E - Some E are G - No G are A - All A are D Derive consequences: - We know 'Some E are G' and 'No G are A', so those E that are G cannot be A. Hence 'Some E are not A' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of B from the left is 3 (choice B)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All D are C - Some C are A - No A are F - All F are D Derive consequences: - We know 'Some C are A' and 'No A are F', so those C that are A cannot be F. Hence 'Some C are not F' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: The letters increase by 2 each term (e.g. J, L, N -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Z4. This matches choice A: Z4."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of E from the left is 6 (choice B)."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: The letters increase by 2 each term (e.g. C, E, G -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is S4. This matches choice B: S4."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. I, K, M -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Y4. This matches choice C: Y4."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of B from the left is 2 (choice C)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Translate premises: - All F are D - Some D are A - No A are E - All E are F Derive consequences: - We know 'Some D are A' and 'No A are E', so those D that are A cannot be E. Hence 'Some D are not E' holds, so the conclusion follows."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All D are G - Some G are B - No B are A - All A are D Derive consequences: - We know 'Some G are B' and 'No B are A', so those G that are B cannot be A. Hence 'Some G are not A' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. D, F, H -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is T4. This matches choice D: T4."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of G from the left is 8 (choice A)."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: The letters increase by 2 each term (e.g. A, C, E -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Q4. This matches choice B: Q4."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Translate premises: - All D are C - Some C are B - No B are A - All A are D Derive consequences: - We know 'Some C are B' and 'No B are A', so those C that are B cannot be A. Hence 'Some C are not A' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of D from the left is 3 (choice C)."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of C from the left is 5 (choice C)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of G from the left is 1 (choice D)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All E are A - Some A are F - No F are D - All D are E Derive consequences: - We know 'Some A are F' and 'No F are D', so those A that are F cannot be D. Hence 'Some A are not D' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: The letters increase by 2 each term (e.g. B, D, F -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is R4. This matches choice A: R4."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of H from the left is 6 (choice D)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All A are E - Some E are G - No G are D - All D are A Derive consequences: - We know 'Some E are G' and 'No G are D', so those E that are G cannot be D. Hence 'Some E are not D' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. B, D, F -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is R4. This matches choice C: R4."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. J, L, N -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Z4. This matches choice C: Z4."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of E from the left is 8 (choice B)."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of D from the left is 5 (choice D)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. J, L, N -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Z4. This matches choice D: Z4."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of D from the left is 4 (choice A)."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: The letters increase by 2 each term (e.g. D, F, H -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is T4. This matches choice A: T4."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: The letters increase by 2 each term (e.g. G, I, K -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is W4. This matches choice B: W4."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Translate premises: - All E are A - Some A are D - No D are G - All G are E Derive consequences: - We know 'Some A are D' and 'No D are G', so those A that are D cannot be G. Hence 'Some A are not G' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. A, C, E -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Q4. This matches choice C: Q4."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All F are B - Some B are G - No G are C - All C are F Derive consequences: - We know 'Some B are G' and 'No G are C', so those B that are G cannot be C. Hence 'Some B are not C' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. A, C, E -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Q4. This matches choice C: Q4."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: The letters increase by 2 each term (e.g. A, C, E -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Q4. This matches choice B: Q4."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of F from the left is 6 (choice B)."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Translate premises: - All F are D - Some D are C - No C are B - All B are F Derive consequences: - We know 'Some D are C' and 'No C are B', so those D that are C cannot be B. Hence 'Some D are not B' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All F are C - Some C are D - No D are B - All B are F Derive consequences: - We know 'Some C are D' and 'No D are B', so those C that are D cannot be B. Hence 'Some C are not B' holds, so the conclusion follows."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: The letters increase by 2 each term (e.g. H, J, L -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is X4. This matches choice B: X4."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of H from the left is 2 (choice B)."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All C are D - Some D are E - No E are G - All G are C Derive consequences: - We know 'Some D are E' and 'No E are G', so those D that are E cannot be G. Hence 'Some D are not G' holds, so the conclusion follows."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Translate premises: - All A are G - Some G are F - No F are E - All E are A Derive consequences: - We know 'Some G are F' and 'No F are E', so those G that are F cannot be E. Hence 'Some G are not E' holds, so the conclusion follows."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. H, J, L -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is X4. This matches choice C: X4."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of A from the left is 3 (choice C)."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of A from the left is 3 (choice B)."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of G from the left is 4 (choice C)."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. J, L, N -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Z4. This matches choice D: Z4."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of F from the left is 5 (choice D)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All G are F - Some F are E - No E are D - All D are G Derive consequences: - We know 'Some F are E' and 'No E are D', so those F that are E cannot be D. Hence 'Some F are not D' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All A are D - Some D are F - No F are G - All G are A Derive consequences: - We know 'Some D are F' and 'No F are G', so those D that are F cannot be G. Hence 'Some D are not G' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. C, E, G -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is S4. This matches choice C: S4."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. H, J, L -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is X4. This matches choice C: X4."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Translate premises: - All G are A - Some A are D - No D are E - All E are G Derive consequences: - We know 'Some A are D' and 'No D are E', so those A that are D cannot be E. Hence 'Some A are not E' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. G, I, K -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is W4. This matches choice D: W4."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: The letters increase by 2 each term (e.g. F, H, J -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is V4. This matches choice A: V4."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of D from the left is 5 (choice C)."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of A from the left is 1 (choice A)."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Translate premises: - All D are E - Some E are F - No F are C - All C are D Derive consequences: - We know 'Some E are F' and 'No F are C', so those E that are F cannot be C. Hence 'Some E are not C' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of F from the left is 4 (choice C)."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. E, G, I -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is U4. This matches choice C: U4."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of A from the left is 3 (choice B)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of B from the left is 1 (choice D)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of H from the left is 3 (choice D)."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of E from the left is 1 (choice C)."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of A from the left is 6 (choice A)."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of E from the left is 3 (choice C)."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All F are G - Some G are D - No D are B - All B are F Derive consequences: - We know 'Some G are D' and 'No D are B', so those G that are D cannot be B. Hence 'Some G are not B' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All A are F - Some F are D - No D are B - All B are A Derive consequences: - We know 'Some F are D' and 'No D are B', so those F that are D cannot be B. Hence 'Some F are not B' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Translate premises: - All D are C - Some C are B - No B are G - All G are D Derive consequences: - We know 'Some C are B' and 'No B are G', so those C that are B cannot be G. Hence 'Some C are not G' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of C from the left is 4 (choice D)."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of G from the left is 2 (choice B)."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All A are C - Some C are F - No F are E - All E are A Derive consequences: - We know 'Some C are F' and 'No F are E', so those C that are F cannot be E. Hence 'Some C are not E' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All G are C - Some C are D - No D are A - All A are G Derive consequences: - We know 'Some C are D' and 'No D are A', so those C that are D cannot be A. Hence 'Some C are not A' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of E from the left is 1 (choice A)."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Translate premises: - All B are E - Some E are C - No C are G - All G are B Derive consequences: - We know 'Some E are C' and 'No C are G', so those E that are C cannot be G. Hence 'Some E are not G' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All D are E - Some E are G - No G are F - All F are D Derive consequences: - We know 'Some E are G' and 'No G are F', so those E that are G cannot be F. Hence 'Some E are not F' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: The letters increase by 2 each term (e.g. D, F, H -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is T4. This matches choice B: T4."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Translate premises: - All B are A - Some A are G - No G are D - All D are B Derive consequences: - We know 'Some A are G' and 'No G are D', so those A that are G cannot be D. Hence 'Some A are not D' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All B are E - Some E are C - No C are D - All D are B Derive consequences: - We know 'Some E are C' and 'No C are D', so those E that are C cannot be D. Hence 'Some E are not D' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of A from the left is 3 (choice A)."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of C from the left is 4 (choice A)."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All F are D - Some D are E - No E are A - All A are F Derive consequences: - We know 'Some D are E' and 'No E are A', so those D that are E cannot be A. Hence 'Some D are not A' holds, so the conclusion follows."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of D from the left is 2 (choice B)."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. I, K, M -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Y4. This matches choice C: Y4."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of D from the left is 5 (choice B)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of F from the left is 8 (choice D)."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: The letters increase by 2 each term (e.g. B, D, F -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is R4. This matches choice B: R4."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. D, F, H -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is T4. This matches choice C: T4."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of G from the left is 4 (choice D)."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of E from the left is 2 (choice B)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All B are A - Some A are E - No E are D - All D are B Derive consequences: - We know 'Some A are E' and 'No E are D', so those A that are E cannot be D. Hence 'Some A are not D' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. A, C, E -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Q4. This matches choice C: Q4."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of A from the left is 5 (choice D)."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All F are G - Some G are C - No C are E - All E are F Derive consequences: - We know 'Some G are C' and 'No C are E', so those G that are C cannot be E. Hence 'Some G are not E' holds, so the conclusion follows."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of F from the left is 7 (choice B)."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: The letters increase by 2 each term (e.g. E, G, I -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is U4. This matches choice A: U4."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. A, C, E -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Q4. This matches choice D: Q4."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Translate premises: - All E are C - Some C are F - No F are B - All B are E Derive consequences: - We know 'Some C are F' and 'No F are B', so those C that are F cannot be B. Hence 'Some C are not B' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. D, F, H -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is T4. This matches choice D: T4."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All G are D - Some D are B - No B are A - All A are G Derive consequences: - We know 'Some D are B' and 'No B are A', so those D that are B cannot be A. Hence 'Some D are not A' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All A are G - Some G are E - No E are C - All C are A Derive consequences: - We know 'Some G are E' and 'No E are C', so those G that are E cannot be C. Hence 'Some G are not C' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: The letters increase by 2 each term (e.g. C, E, G -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is S4. This matches choice A: S4."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of H from the left is 5 (choice C)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of B from the left is 4 (choice D)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: The letters increase by 2 each term (e.g. D, F, H -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is T4. This matches choice A: T4."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All C are A - Some A are D - No D are F - All F are C Derive consequences: - We know 'Some A are D' and 'No D are F', so those A that are D cannot be F. Hence 'Some A are not F' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All E are F - Some F are A - No A are B - All B are E Derive consequences: - We know 'Some F are A' and 'No A are B', so those F that are A cannot be B. Hence 'Some F are not B' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of A from the left is 5 (choice A)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All F are G - Some G are D - No D are C - All C are F Derive consequences: - We know 'Some G are D' and 'No D are C', so those G that are D cannot be C. Hence 'Some G are not C' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. G, I, K -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is W4. This matches choice C: W4."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. F, H, J -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is V4. This matches choice D: V4."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Translate premises: - All C are A - Some A are E - No E are G - All G are C Derive consequences: - We know 'Some A are E' and 'No E are G', so those A that are E cannot be G. Hence 'Some A are not G' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of E from the left is 4 (choice A)."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All G are F - Some F are E - No E are C - All C are G Derive consequences: - We know 'Some F are E' and 'No E are C', so those F that are E cannot be C. Hence 'Some F are not C' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: The letters increase by 2 each term (e.g. D, F, H -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is T4. This matches choice A: T4."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of A from the left is 4 (choice D)."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. J, L, N -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Z4. This matches choice C: Z4."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All F are A - Some A are C - No C are B - All B are F Derive consequences: - We know 'Some A are C' and 'No C are B', so those A that are C cannot be B. Hence 'Some A are not B' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. K, M, O -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is [4. The computed next term [4 differs from the provided choice A4; however the best-fit pattern is explained above."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: The letters increase by 2 each term (e.g. I, K, M -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Y4. This matches choice A: Y4."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of E from the left is 6 (choice C)."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of A from the left is 7 (choice B)."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of A from the left is 3 (choice A)."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: The letters increase by 2 each term (e.g. C, E, G -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is S4. This matches choice B: S4."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Translate premises: - All F are D - Some D are B - No B are C - All C are F Derive consequences: - We know 'Some D are B' and 'No B are C', so those D that are B cannot be C. Hence 'Some D are not C' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of D from the left is 5 (choice A)."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of B from the left is 5 (choice B)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All C are A - Some A are B - No B are G - All G are C Derive consequences: - We know 'Some A are B' and 'No B are G', so those A that are B cannot be G. Hence 'Some A are not G' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Translate premises: - All E are G - Some G are D - No D are A - All A are E Derive consequences: - We know 'Some G are D' and 'No D are A', so those G that are D cannot be A. Hence 'Some G are not A' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of H from the left is 2 (choice D)."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. C, E, G -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is S4. This matches choice C: S4."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: The letters increase by 2 each term (e.g. K, M, O -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is [4. The computed next term [4 differs from the provided choice A4; however the best-fit pattern is explained above."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of G from the left is 6 (choice C)."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All C are E - Some E are D - No D are A - All A are C Derive consequences: - We know 'Some E are D' and 'No D are A', so those E that are D cannot be A. Hence 'Some E are not A' holds, so the conclusion follows."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All F are A - Some A are E - No E are B - All B are F Derive consequences: - We know 'Some A are E' and 'No E are B', so those A that are E cannot be B. Hence 'Some A are not B' holds, so the conclusion follows."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Translate premises: - All A are C - Some C are E - No E are B - All B are A Derive consequences: - We know 'Some C are E' and 'No E are B', so those C that are E cannot be B. Hence 'Some C are not B' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: The letters increase by 2 each term (e.g. E, G, I -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is U4. This matches choice B: U4."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of C from the left is 7 (choice D)."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All C are F - Some F are A - No A are G - All G are C Derive consequences: - We know 'Some F are A' and 'No A are G', so those F that are A cannot be G. Hence 'Some F are not G' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of C from the left is 6 (choice B)."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All G are C - Some C are A - No A are F - All F are G Derive consequences: - We know 'Some C are A' and 'No A are F', so those C that are A cannot be F. Hence 'Some C are not F' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of E from the left is 1 (choice D)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. J, L, N -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Z4. This matches choice D: Z4."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of B from the left is 7 (choice A)."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of E from the left is 2 (choice B)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All A are E - Some E are B - No B are G - All G are A Derive consequences: - We know 'Some E are B' and 'No B are G', so those E that are B cannot be G. Hence 'Some E are not G' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All E are A - Some A are D - No D are G - All G are E Derive consequences: - We know 'Some A are D' and 'No D are G', so those A that are D cannot be G. Hence 'Some A are not G' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: The letters increase by 2 each term (e.g. F, H, J -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is V4. This matches choice A: V4."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: The letters increase by 2 each term (e.g. B, D, F -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is R4. This matches choice A: R4."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. K, M, O -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is [4. The computed next term [4 differs from the provided choice A4; however the best-fit pattern is explained above."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: The letters increase by 2 each term (e.g. F, H, J -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is V4. This matches choice B: V4."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Translate premises: - All B are A - Some A are C - No C are D - All D are B Derive consequences: - We know 'Some A are C' and 'No C are D', so those A that are C cannot be D. Hence 'Some A are not D' holds, so the conclusion follows."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All F are G - Some G are D - No D are C - All C are F Derive consequences: - We know 'Some G are D' and 'No D are C', so those G that are D cannot be C. Hence 'Some G are not C' holds, so the conclusion follows."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Translate premises: - All A are C - Some C are E - No E are G - All G are A Derive consequences: - We know 'Some C are E' and 'No E are G', so those C that are E cannot be G. Hence 'Some C are not G' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of G from the left is 1 (choice D)."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. B, D, F -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is R4. This matches choice D: R4."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: The letters increase by 2 each term (e.g. A, C, E -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Q4. This matches choice B: Q4."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of D from the left is 6 (choice C)."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. B, D, F -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is R4. This matches choice D: R4."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. E, G, I -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is U4. This matches choice C: U4."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: The letters increase by 2 each term (e.g. I, K, M -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Y4. This matches choice D: Y4."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Translate premises: - All E are F - Some F are D - No D are G - All G are E Derive consequences: - We know 'Some F are D' and 'No D are G', so those F that are D cannot be G. Hence 'Some F are not G' holds, so the conclusion follows."
   },
   {
     "answer": "A",
-    "reasoning": ""
+    "reasoning": "Answer: A. Reasoning: The letters increase by 2 each term (e.g. A, C, E -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is Q4. This matches choice A: Q4."
   },
   {
     "answer": "D",
-    "reasoning": ""
+    "reasoning": "Answer: D. Reasoning: Translate premises: - All A are D - Some D are B - No B are F - All F are A Derive consequences: - We know 'Some D are B' and 'No B are F', so those D that are B cannot be F. Hence 'Some D are not F' holds, so the conclusion follows."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Given relations: A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. E is the brother of F. How is A related to F?. Steps: Derived relation by composing the given parent/sibling/spouse facts."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of B from the left is 5 (choice B)."
   },
   {
     "answer": "B",
-    "reasoning": ""
+    "reasoning": "Answer: B. Reasoning: Use the given pairwise constraints to construct the unique linear arrangement (place anchors from explicit left/right clues, then deduce remaining positions). After building the arrangement the position of F from the left is 5 (choice B)."
   },
   {
     "answer": "C",
-    "reasoning": ""
+    "reasoning": "Answer: C. Reasoning: The letters increase by 2 each term (e.g. D, F, H -> +2). The numbers follow k^2 mod 10 starting from k=0, giving [0, 1, 4, 9, 6, 5, 6, 9] so next is 4. Therefore the next term is T4. This matches choice C: T4."
   }
 ]
